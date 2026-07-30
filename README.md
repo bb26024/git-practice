@@ -1,6 +1,4 @@
-Markdown
-
-#git-practice
+# git-practice
 
 ## 概要
 GitとGitHubの基本操作を練習するためのリポジトリです。
